@@ -36,7 +36,7 @@ Estou construindo minha jornada na área de tecnologia, buscando aprimorar meus 
 ## 📫 Contato
 
 - GitHub: [@joaovictorfarias-deve](https://github.com/joaovictorfarias-deve)
-- LinkedIn: (https://www.linkedin.com/in/joaovictoroliveiradefarias/)
+- LinkedIn: https://www.linkedin.com/in/joaovictoroliveiradefarias/
 
 ---
 
