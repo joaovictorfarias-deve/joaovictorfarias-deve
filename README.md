@@ -1,100 +1,43 @@
-## Hi there 👋
+# Olá! Eu sou João Victor 👋
 
-💻 Aprendendo Programação
+💻 Estudante de programação, interessado em tecnologia, computadores e desenvolvimento de jogos.
 
-Repositório criado para documentar minha jornada de aprendizado em programação, reunindo exercícios, projetos, anotações e experimentos desenvolvidos durante meus estudos.
+Estou construindo minha jornada na área de tecnologia, buscando aprimorar meus conhecimentos por meio de estudos e projetos práticos.
 
-🎯 Objetivo
+## 🚀 Atualmente estudando
 
-Este repositório serve como um registro da minha evolução na programação e como um espaço para praticar conceitos, desenvolver projetos e consolidar meus conhecimentos.
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Análise de Dados
 
-Atualmente, meus estudos estão focados principalmente em Python, além dos fundamentos básicos de HTML, CSS e JavaScript.
+## 🎯 Meus objetivos
 
-🛠️ As principais tecnologias presentes neste repositório são:
+- Aprimorar meus conhecimentos em programação.
+- Desenvolver projetos práticos.
+- Construir um portfólio profissional.
+- Conquistar minha primeira oportunidade na área de tecnologia.
+- Futuramente, trabalhar com desenvolvimento de jogos.
 
-🐍 Python
-🌐 HTML
-🎨 CSS
-⚡ JavaScript
-🔧 Git
-🐙 GitHub
-📊 SQL
+## 🛠️ Tecnologias e ferramentas
 
-📚 Conteúdos estudados
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git
+- GitHub
 
-Python:
-  -Variáveis
-  -Tipos de dados
-  -Operadores
-  -Strings
-  -Listas
-  -Estruturas condicionais
-  -Estruturas de repetição
-  -Funções
-  -Manipulação de dados
-  -Exercícios práticos
-  -Pequenos projetos
-Desenvolvimento Web:
-  -Estrutura HTML
-  -CSS
-  -JavaScript
-  -Estrutura de páginas
-  -Fundamentos de desenvolvimento web
+## 📂 Meus projetos
 
-🚀 Projetos e exercícios
+- [Aprendendo Programação](https://github.com/joaovictorfarias-deve/aprendendo-programacao)
 
-Alguns dos projetos e exercícios desenvolvidos durante os estudos incluem:
+## 📫 Contato
 
-🧮 Calculadora
-🔐 Sistema de login
-🎮 Jogo de senha
-🍽️ Sistema relacionado a restaurante
-📝 Ficha cadastral
-📊 Exercícios de lógica de programação
-🐍 Diversos exercícios em Python
+- GitHub: [@joaovictorfarias-deve](https://github.com/joaovictorfarias-deve)
+- LinkedIn: (https://www.linkedin.com/in/joaovictoroliveiradefarias/)
 
-Este repositório está em constante evolução conforme novos conteúdos e projetos são desenvolvidos.
+---
 
-📈 Minha evolução
-
-Este repositório acompanha minha evolução desde os primeiros conceitos de programação até projetos cada vez mais completos.
-
-O objetivo não é apenas guardar códigos, mas entender os conceitos, praticar e construir projetos reais.
-
-🗺️ Próximos objetivos
-
-Aprofundar meus conhecimentos em Python
-
-Melhorar meus conhecimentos em HTML e CSS
-
-Aprofundar JavaScript
-
-Aprender bancos de dados
-
-Desenvolver projetos web completos
-
-Aprender desenvolvimento de software
-
-Estudar C# e Unity
-
-Começar a desenvolver jogos
-
-👨‍💻 Autor
-
-João Victor
-
-Estudante de programação em busca de evolução constante através de estudos, prática e desenvolvimento de projetos.
-
-⭐ Este repositório representa minha jornada de aprendizado e continuará sendo atualizado conforme novos conhecimentos e projetos forem desenvolvidos.
-
-<!--Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Sempre aprendendo, praticando e evoluindo!
