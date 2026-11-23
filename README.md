@@ -12,12 +12,12 @@ Atualmente, meus estudos estão focados principalmente em Python, além dos fund
 
 🛠️ As principais tecnologias presentes neste repositório são:
 
-🐍 Python
 🌐 HTML
 🎨 CSS
 ⚡ JavaScript
 🔧 Git
 🐙 GitHub
+📊 SQL
 
 📚 Conteúdos estudados
 
