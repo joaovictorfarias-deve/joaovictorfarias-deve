@@ -75,7 +75,7 @@ Desenvolver projetos web completos
 
 Aprender desenvolvimento de software
 
-Estudar C++
+Estudar C# e Unity
 
 Começar a desenvolver jogos
 
